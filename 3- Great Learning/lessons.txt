@@ -1,0 +1,8 @@
+https://olympus.mygreatlearning.com/courses?pb_id=10791
+https://olympus.mygreatlearning.com/courses/63285?th=lo&pb_id=10791
+https://olympus.mygreatlearning.com/courses/63285/modules/items/2249269?pb_id=10791
+
+
+https://runestone.academy/ns/books/published//thinkcspy/index.html
+https://realpython.com/python-kwargs-and-args/
+https://docs.python.org/3/tutorial/
